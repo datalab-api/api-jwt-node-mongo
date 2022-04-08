@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datalab-api/api-nodejs.git"
+    "url": "git+https://github.com/datalab-api/api-jwt-node-mongo.git"
   },
   "keywords": [
     "nodejs",
@@ -20,9 +20,9 @@
   "author": "Guisse",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/datalab-api/api-nodejs/issues"
+    "url": "https://github.com/datalab-api/api-jwt-node-mongo/issues"
   },
-  "homepage": "https://github.com/datalab-api/api-nodejs#readme",
+  "homepage": "https://github.com/datalab-api/api-jwt-node-mongo#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
