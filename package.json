@@ -1,0 +1,46 @@
+{
+  "name": "api-node-mongo",
+  "version": "1.0.0",
+  "description": "Nodejs + jwt MongoDb + 0Auth2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datalab-api/api-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "jwt",
+    "0auth2",
+    "mongodb"
+  ],
+  "author": "Guisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datalab-api/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/datalab-api/api-nodejs#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "helmet": "^5.0.2",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^6.4.4",
+    "mongoose": "^6.2.10",
+    "rootpath": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "14.15.x"
+  }
+}
